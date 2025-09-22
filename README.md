@@ -4,14 +4,17 @@ Name: Torrance (Tori) Anonuevo
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
-Flasky
-======
+## Activity 1.2
+![Activity 1.2 Part 1](readme-img/activity_1_2_pt1.png)
+![Activity 1.2 Part 2](readme-img/activity_1_2_pt2.png)
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
+## Activity 1.3
+![Activity 1.3 Part 1](readme-img/activity_1_3.png)
 
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
+## Activity 1.4
+![Activity 1.4 Part 1](readme-img/activity_1_4_pt1.png)
+![Activity 1.4 Part 2](readme-img/activity_1_4_pt2.png)
+![Activity 1.4 Part 3](readme-img/activity_1_4_pt3.png)
 
-For Readers of the First Edition of the Book
---------------------------------------------
-
-The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+## Activity 2
+![Activity 2](readme-img/activity_2_4.png)
